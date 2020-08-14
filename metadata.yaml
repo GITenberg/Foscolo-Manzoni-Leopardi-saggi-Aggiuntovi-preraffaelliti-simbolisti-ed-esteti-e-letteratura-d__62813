@@ -1,0 +1,32 @@
+_repo: Foscolo-Manzoni-Leopardi-saggi-Aggiuntovi-preraffaelliti-simbolisti-ed-esteti-e-letteratura-d__62813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graf, Arturo
+    birthdate: 1848
+    deathdate: 1913
+    gutenberg_agent_id: '50750'
+    url: http://www.gutenberg.org/2009/agents/50750
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arturo_Graf
+    - https://it.wikipedia.org/wiki/Arturo_Graf
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62813'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foscolo, Ugo, 1778-1827'
+- !lcsh 'Italian literature'
+- !lcsh 'Manzoni, Alessandro, 1785-1873'
+- !lcsh 'Leopardi, Giacomo, 1798-1837'
+- !lcc 'PQ'
+- GITenberg
+title: "Foscolo, Manzoni, Leopardi: saggi\r\nAggiuntovi preraffaelliti, simbolisti\
+  \ ed esteti e letteratura dell'avvenire"
+url: http://www.gutenberg.org/ebooks/62813
