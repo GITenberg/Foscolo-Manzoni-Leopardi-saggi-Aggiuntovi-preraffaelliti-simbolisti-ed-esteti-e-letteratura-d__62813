@@ -1,5 +1,8 @@
 _repo: Foscolo-Manzoni-Leopardi-saggi-Aggiuntovi-preraffaelliti-simbolisti-ed-esteti-e-letteratura-d__62813
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62813-h/images/cover.jpg
 creator:
   author:
     agent_name: Graf, Arturo
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Arturo_Graf
     - https://it.wikipedia.org/wiki/Arturo_Graf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62813#Foscolo-Manzoni-Leopardi-saggi-Aggiuntovi-preraffaelliti-simbolisti-ed-esteti-e-letteratura-d_
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
